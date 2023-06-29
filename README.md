@@ -4,6 +4,6 @@
 - 📫 How to reach me: Linkedin,instagram,whatsapp,gmail
   
 - Credits:
-    thank my friend Alessandro Lupini (Disturbante on github) for introducing me to the world of pentesting.
+    thanks to my friend Alessandro Lupini (Disturbante on github) for introducing me to the world of pentesting.
 
 
