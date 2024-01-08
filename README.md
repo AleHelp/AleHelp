@@ -1,7 +1,7 @@
 ## Who I am:
 - 👋 _Hi, I’m @AleHelp_
 - 👀 _I’m interested in cybersecurity field and I'm learning everything about computer science/cybersecurity_
-- 🌱 _I like to continuously update through CTf (Capture the Flag), boot2root machines, Academy, home lab..._
+- 🌱 _I like to continuously update through CTF (Capture the Flag), boot2root machines, Academy, home lab..._
 - 📫 _How to reach me: [Linkedin](linkedin.com/in/alessandro-eleuteri-307303234)_
   
 ##### Credits:
