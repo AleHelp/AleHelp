@@ -7,7 +7,7 @@
 - Credits:
     Thanks to my friend Alessandro Lupini (Disturbante on GitHub) for introducing me to the world of penetration testing.
 
-### Repository if you want to pry, about what I do:
+### Repository if you're curious about what I do:
 
 _This section contains links to writeups of various machines, scripts and things about Active Directory_
 
