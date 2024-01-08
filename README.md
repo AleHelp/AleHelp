@@ -5,9 +5,9 @@
 - 📫 _How to reach me: [Linkedin](linkedin.com/in/alessandro-eleuteri-307303234)_
   
 ##### Credits:
-Thanks to my friend Alessandro Lupini (Disturbante on GitHub) for introducing me to the world of penetration testing.
+_Thanks to my friend Alessandro Lupini (Disturbante on GitHub) for introducing me to the world of penetration testing._
 
-### Repository if you're curious about what I do:
+### Repositories if you're curious about what I do:
 
 _This section contains links to writeups of various machines, scripts and things about Active Directory_
 
