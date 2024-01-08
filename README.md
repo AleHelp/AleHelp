@@ -4,8 +4,8 @@
 - 🌱 _I like to continuously update through CTf (Capture the Flag), boot2root machines, Academy, home lab..._
 - 📫 _How to reach me: [Linkedin](linkedin.com/in/alessandro-eleuteri-307303234)_
   
-- Credits:
-    Thanks to my friend Alessandro Lupini (Disturbante on GitHub) for introducing me to the world of penetration testing.
+##### Credits:
+Thanks to my friend Alessandro Lupini (Disturbante on GitHub) for introducing me to the world of penetration testing.
 
 ### Repository if you're curious about what I do:
 
