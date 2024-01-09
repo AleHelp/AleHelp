@@ -16,4 +16,4 @@ _This section contains links to writeups of various machines, scripts and things
 - [Writeup TryHackMe](https://github.com/AleHelp/Writeups-Tryhackme)
 
 ### Credits:
-_Thanks to my friend Alessandro Lupini (Disturbante on GitHub) for introducing me to the world of penetration testing._
+_Thanks to my friend Alessandro Lupini [Disturbante](https://github.com/Disturbante) for introducing me to the world of penetration testing._
