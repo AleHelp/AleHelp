@@ -15,5 +15,11 @@ _This section contains links to writeups of various machines, scripts and things
 - [Writeups HackTheBox](https://github.com/AleHelp/Writeups-Hackthebox)
 - [Writeups TryHackMe](https://github.com/AleHelp/Writeups-Tryhackme)
 
+### Contributions:
+_Where I made a contribution of my own:_
+
+- [Linux Pentest](https://github.com/Disturbante/Linux-Pentest)
+- [citd-CTF-Area7331-2-Going-Nuclear-writeup](https://github.com/Disturbante/citd-CTF-Area7331-2-Going-Nuclear-writeup)
+
 ### Credits:
 _Thanks to my friend Alessandro Lupini [Disturbante](https://github.com/Disturbante) for introducing me to the world of penetration testing._
