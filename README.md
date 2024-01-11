@@ -18,8 +18,8 @@ _This section contains links to writeups of various machines, scripts and things
 ### Contributions:
 _Where I made a contribution of my own:_
 
-- [Linux Pentest](https://github.com/Disturbante/Linux-Pentest)
-- [citd-CTF-Area7331-2-Going-Nuclear-writeup](https://github.com/Disturbante/citd-CTF-Area7331-2-Going-Nuclear-writeup)
+- [Linux Pentest](https://github.com/Disturbante/Linux-Pentest) _(Enumeration section, general restyling and fixing)_
+- [citd-CTF-Area7331-2-Going-Nuclear-writeup](https://github.com/Disturbante/citd-CTF-Area7331-2-Going-Nuclear-writeup) _(General restyling and fixing)_
 
 ### Credits:
 _Thanks to my friend Alessandro Lupini [Disturbante](https://github.com/Disturbante) for introducing me to the world of penetration testing._
