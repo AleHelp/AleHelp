@@ -12,8 +12,8 @@ _This section contains links to writeups of various machines, scripts and things
 - [Active Directory Lab](https://github.com/AleHelp/Active-Directory)
 - [Passint](https://github.com/AleHelp/Passint)
 - [HTTPS-webserver](https://github.com/AleHelp/HTTPS-webserver)
-- [Writeup HackTheBox](https://github.com/AleHelp/Writeups-Hackthebox)
-- [Writeup TryHackMe](https://github.com/AleHelp/Writeups-Tryhackme)
+- [Writeups HackTheBox](https://github.com/AleHelp/Writeups-Hackthebox)
+- [Writeups TryHackMe](https://github.com/AleHelp/Writeups-Tryhackme)
 
 ### Credits:
 _Thanks to my friend Alessandro Lupini [Disturbante](https://github.com/Disturbante) for introducing me to the world of penetration testing._
