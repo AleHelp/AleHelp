@@ -5,8 +5,7 @@
 - 📫 _How to reach me: [Linkedin](linkedin.com/in/alessandro-eleuteri-307303234)_
   
 ### Repositories if you're curious about what I do:
-
-_This section contains links to writeups of various machines, scripts and things about Active Directory_
+This section contains links to writeups of various machines, scripts and things about Active Directory
 
 - [Windows Pentesting Cheatsheet](https://github.com/AleHelp/Windows-Pentesting-cheatsheet)
 - [Active Directory Lab](https://github.com/AleHelp/Active-Directory)
@@ -16,10 +15,10 @@ _This section contains links to writeups of various machines, scripts and things
 - [Writeups-TryHackMe](https://github.com/AleHelp/Writeups-Tryhackme)
 
 ### Contributions:
-_Where I made a contribution of my own:_
+Where I made a contribution of my own:
 
 - [Linux Pentest](https://github.com/Disturbante/Linux-Pentest) _(Enumeration section, few privesc, general restyling and fixing)_
 - [citd-CTF-Area7331-2-Going-Nuclear-writeup](https://github.com/Disturbante/citd-CTF-Area7331-2-Going-Nuclear-writeup) _(Content, general restyling and fixing)_
 
 ### Credits:
-_Thanks to my friend Alessandro Lupini [Disturbante](https://github.com/Disturbante) for introducing me to the world of penetration testing._
+Thanks to my friend Alessandro Lupini [Disturbante](https://github.com/Disturbante) for introducing me to the world of penetration testing.
