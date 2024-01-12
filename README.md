@@ -2,7 +2,7 @@
 - 👋 _Hi, I’m @AleHelp_
 - 👀 _I’m interested in cybersecurity field and I'm learning everything about computer science/cybersecurity_
 - 🌱 _I like to continuously update through CTF (Capture the Flag), boot2root machines, Academy, home lab..._
-- 📫 _How to reach me: [Linkedin](linkedin.com/in/alessandro-eleuteri-307303234)_
+- 📫 _How to reach me: [Linkedin](https://linkedin.com/in/alessandro-eleuteri-307303234)_
   
 ### Repositories if you're curious about what I do:
 This section contains links to writeups of various machines, scripts and things about Active Directory
