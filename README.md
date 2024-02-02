@@ -17,7 +17,7 @@ This section contains links to writeups of various machines, scripts and things 
 ### Contributions:
 Where I made a contribution of my own:
 
-- [Linux Pentest](https://github.com/Disturbante/Linux-Pentest) _(Enumeration section, few privesc, general restyling and fixing)_
+- [Linux Pentest](https://github.com/Disturbante/Linux-Pentest) _(Enumeration section, few privesc, some persistences and  general restyling and fixing)_
 - [citd-CTF-Area7331-2-Going-Nuclear-writeup](https://github.com/Disturbante/citd-CTF-Area7331-2-Going-Nuclear-writeup) _(Content, general restyling and fixing)_
 
 ### Credits:
